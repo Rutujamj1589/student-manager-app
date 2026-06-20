@@ -51,8 +51,8 @@ student_manager_app.py
 
 ## Project Structure
 
-student-manager-app/
-│
-├── student_manager_app.py
-├── students.json
-└── README.md
+### student-manager-app
+
+ * student_manager_app.py
+ * students.json
+ * README.md
